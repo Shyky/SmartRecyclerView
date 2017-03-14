@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">SmartRecyclerView</string>
+    <string-array name="menus">
+        <item>Simple List</item>
+        <item>Divider List</item>
+    </string-array>
+</resources>
